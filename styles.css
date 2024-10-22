@@ -1,0 +1,115 @@
+/* General Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+    font-size: 2.5em;
+    color: #ff6f61;
+}
+
+#header {
+    background-color: #ff9a8b;
+    color: white;
+    padding: 20px 0;
+    border-bottom: 5px solid #f08080;
+}
+
+p {
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#content {
+    max-width: 1200px;
+    margin: 20px auto;
+    padding: 20px;
+    background: white;
+    box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.1);
+    border-radius: 10px;
+}
+
+.input-section {
+    margin-bottom: 20px;
+}
+
+input, select, textarea {
+    padding: 10px;
+    font-size: 16px;
+    width: 100%;
+    margin-top: 10px;
+    border-radius: 8px;
+    border: 2px solid #ccc;
+}
+
+textarea {
+    height: 100px;
+}
+
+.buttons {
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 10px 15px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+    margin-top: 15px;
+    width: auto;
+}
+
+.buttons:hover {
+    background-color: #ff9a8b;
+}
+
+#charCounter {
+    float: right;
+    font-size: 14px;
+    color: #666;
+    margin-top: 10px;
+}
+
+#posts {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 30px;
+}
+
+#posts th, #posts td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: left;
+}
+
+#posts th {
+    background-color: #ff6f61;
+    color: white;
+}
+
+#posts tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#posts tr:hover {
+    background-color: #ffefef;
+}
+
+footer {
+    text-align: center;
+    margin-top: 30px;
+    padding: 10px 0;
+    background-color: #f08080;
+    color: white;
+    font-size: 16px;
+    border-top: 5px solid #ff6f61;
+}
