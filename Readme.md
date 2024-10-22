@@ -14,11 +14,8 @@ This project demonstrates how to build a multilingual voice synthesis web applic
 
 ## **Infrastructure**
 
-The infrastructure of the project is provided in infrastructure directory
-
-![alt text]({0E444707-145D-4E20-AFC1-C066852A30EB}.png)
-
-
+The infrastructure of the project is provided below.
+![alt text]({68450953-B635-4A13-AE97-F687ED5B6677}.png)
 
 ## **Features**
 

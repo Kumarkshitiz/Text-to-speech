@@ -1,0 +1,1 @@
+The text-to-speech project aims to produce spoken language from written text. This technology is useful for people who have difficulty reading, as well as for learners who want to improve their pronunciation. By using advanced algorithms, we can generate a natural and engaging voice that facilitates communication.
